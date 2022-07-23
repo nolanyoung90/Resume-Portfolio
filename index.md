@@ -3,7 +3,7 @@
 ## Check out some of the projects I've worked on.
 
 ### Contact
-mailto:nolanyoung90@gmail.com
+nolanyoung90@gmail.com
 
 
 
