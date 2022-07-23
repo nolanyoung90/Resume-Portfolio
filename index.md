@@ -1,5 +1,4 @@
-## Welcome to Nolan's ![image](https://user-images.githubusercontent.com/58205694/180587839-727b57f7-6814-4e42-ac54-c5d469371cb1.png)
-github portfolio
+Welcome to Nolan's ![image](https://user-images.githubusercontent.com/58205694/180587839-727b57f7-6814-4e42-ac54-c5d469371cb1.png) GitBub portfolio
 
 You can use the [editor on GitHub](https://github.com/nolanyoung90/Resume-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
