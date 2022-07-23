@@ -3,21 +3,7 @@
 ## Check out some of the projects I've worked on.
 
 ### Contact
-nolanyoung90@gmail.com
-
-[Enterprise fund pie chart.pdf](https://github.com/nolanyoung90/Resume-Portfolio/files/9172974/Enterprise.fund.pie.chart.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
+## mailto:nolanyoung90@gmail.com
 
 
 
