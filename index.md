@@ -1,4 +1,40 @@
-## Welcome to GitHub Pages
+# Welcome to Nolan's ![image](https://user-images.githubusercontent.com/58205694/180587839-727b57f7-6814-4e42-ac54-c5d469371cb1.png) GitHub portfolio
+
+## Check out some of the projects I've worked on.
+
+### Contact
+nolanyoung90@gmail.com
+
+[Enterprise fund pie chart.pdf](https://github.com/nolanyoung90/Resume-Portfolio/files/9172974/Enterprise.fund.pie.chart.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/nolanyoung90/Resume-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,6 +68,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nolanyoung90/Resume-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
