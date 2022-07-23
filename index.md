@@ -33,5 +33,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nolanyoung90/Resume-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+![4E_Concessions_Final_Result](https://user-images.githubusercontent.com/58205694/180587439-1db89bff-433f-4766-bdfd-9267cc080818.jpg)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
