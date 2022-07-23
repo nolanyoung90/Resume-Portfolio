@@ -1,4 +1,43 @@
-Welcome to Nolan's ![image](https://user-images.githubusercontent.com/58205694/180587839-727b57f7-6814-4e42-ac54-c5d469371cb1.png) GitBub portfolio
+#Welcome to Nolan's ![image](https://user-images.githubusercontent.com/58205694/180587839-727b57f7-6814-4e42-ac54-c5d469371cb1.png) GitHub portfolio
+
+## Check out some of the projects I've worked on.
+
+### Contact
+mailto:nolanyoung90@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/nolanyoung90/Resume-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,5 +71,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nolanyoung90/Resume-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Contact
-mailto:nolanyoung90@gmail.com
+
